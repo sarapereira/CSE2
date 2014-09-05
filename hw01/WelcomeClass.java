@@ -21,6 +21,6 @@ System.out.println("  v  v  v  v  v  v   ");
 System.out.println("My name is Sara and I love baking, shopping, and traveling.");
 System.out.println("I'm excited to be starting my sophomore year!");
 
-//test/testtest
+//test/test
     }
 }
